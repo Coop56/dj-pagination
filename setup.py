@@ -79,6 +79,7 @@ setup(
         "Programming Language :: Python :: 3.4",
         "Programming Language :: Python :: 3.5",
         "Programming Language :: Python :: 3.6",
+        "Programming Language :: Python :: 3.7"
     ],
     extras_require={':python_version < "3.0"': ["Django<2.0"]},
     include_package_data=True,
